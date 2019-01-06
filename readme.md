@@ -21,16 +21,6 @@ You only need a local server - Like Wamp or Xampp
 
 
 
-### Installing
-
-1- Create New Empty MySql Database 
-
-2- Modify the "env" file to your server information
-
-3- Migrate Database Tables 
-
-
-
 ## Project Use This Tools
 
 * [philosophy](https://colorlib.com/wp/template/philosophy/) - The free web design template
