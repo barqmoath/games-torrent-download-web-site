@@ -8,7 +8,7 @@ Games Torrent Files Download - Using Laravel Framework
 
 ### Summary
 
-The project is simply a website where managers upload files for the games to be made available for download by the users or visitors
+Is a simple website project .. Compiles video games to categories and platforms and then provides a beautiful environment to display these games to the user and then provides the torrent files for each game to download
 
 
 
