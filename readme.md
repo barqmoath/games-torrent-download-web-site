@@ -13,12 +13,6 @@ Is a simple website project .. Compiles video games to categories and platforms 
 
 
 
-### Prerequisites
-
-You only need a local server - Like Wamp or Xampp
-
-
-
 
 ### Tools
 
